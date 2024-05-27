@@ -1,0 +1,13 @@
+.vscode/*
+.mypy_cache/*
+.pytest_cache/*
+build/*
+dist/*
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+.env
+Pipfile.lock
+logfile.log

@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "=1.0.1"
+pypdf = "=4.2.0"
+pytesseract = "=0.3.10"
+pdf2image = "=1.17.0"
+babel = "=2.15.0"
+
+[dev-packages]
+pytest = "=8.2.0"
+
+[requires]
+python_version = "3.12"
